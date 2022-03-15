@@ -3,11 +3,11 @@ void main(){
     // task no 1
 
     // stdout.write('enter your name:');
-    // var name = stdin.readLineSync();
+    // var name = stdin.readLineSync()!;
     // stdout.write('Which Product do you want to buy?:');
-    // var productTitle = stdin.readLineSync();
+    // var productTitle = stdin.readLineSync()!;
     // stdout.write('How many Products do you want to order Please enter your quantity?:');
-    // var quantity = stdin.readLineSync();
+    // var quantity = stdin.readLineSync()!;
     // print('${name} ordered ${quantity} ${productTitle} on xyz clothing store');
 
 
